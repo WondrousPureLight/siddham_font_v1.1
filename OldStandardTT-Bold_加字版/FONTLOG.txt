@@ -1,0 +1,61 @@
+FONTLOG for Old Standard TT Bold
+==================================
+
+本文件记录本字体包的版本与变更历史，属 SIL OFL 社区惯例文件。
+完整许可证见随包 OFL.txt（SIL Open Font License 1.1）。
+
+----------------------------------------------------------------------
+Basic Font Information
+----------------------------------------------------------------------
+
+Old Standard TT is an open font family designed by Alexey Kryukov.
+It aims to emulate a 19th century Imperial Russian typographic style,
+with glyphs matching the modern Vox classification pattern.
+
+This package is an independent distribution of the Bold member of the
+family, derived from the official Google Fonts release v3.000, with
+four glyphs added (see ChangeLog below). The whole font, including the
+added glyphs, is licensed under the SIL Open Font License, Version 1.1.
+
+Original copyright line (retained):
+    Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com)
+
+----------------------------------------------------------------------
+ChangeLog
+----------------------------------------------------------------------
+
+3.001 (2026)
+- Added four glyphs following the original component construction:
+      Lmacrondot  U+1E38
+      lmacrondot  U+1E39
+      Rmacrondot  U+1E5C
+      rmacrondot  U+1E5D
+- The four added glyphs are built from Old Standard TT's own
+  components and therefore constitute OFL derivative works; they remain
+  part of the whole font under SIL OFL 1.1.
+- Glyph count raised from 935 (official v3.000) to 939.
+- The font description (name ID 10) was rewritten in English and
+  Chinese to state the four added glyphs, the retained original
+  copyright line, and the whole-font SIL OFL 1.1 license status.
+  No other changes were made to the official v3.000 font data.
+
+3.000 (official Google Fonts release)
+- Base version of this package. Distributed by Google Fonts under the
+  SIL Open Font License 1.1.
+- 935 glyphs.
+- No Reserved Font Name declared in the official OFL.txt.
+
+----------------------------------------------------------------------
+Acknowledgements
+----------------------------------------------------------------------
+
+- Alexey Kryukov and the Old Standard Project Authors, the original
+  designers and copyright holders of Old Standard TT.
+- Google Fonts for hosting and distributing the upstream release.
+
+----------------------------------------------------------------------
+Verification
+----------------------------------------------------------------------
+
+SHA-256 of the distributed font file:
+    AEB810A819ADEE01E24A7E704F579E43E8DC50DA228B258473000D718C90DF4A
