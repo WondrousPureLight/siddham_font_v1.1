@@ -5,13 +5,12 @@ Siddham font and input method / 悉昙梵字字库与输入法。
 ## 文件说明
 
 1、`siddam 1.1.ttf`：修复后的悉昙字库（当前版本 Version 1.101）。其中含
-   OldStandardTT-Bold 字库的 126 个字符，使用时**不要**点选办公软件的 Bold
-   按钮，因其已经是粗体；
+   OldStandardTT-Bold 字库的 126 个字符；
 
 2、`FONTLOG.txt`：字库的修改信息；
 
 3、`电子版大藏经cbeta悉昙字库2023版-Siddam.ttf`：CBETA 2023-06-21 发布的
-   原始字库，用于和 siddam 1.1 字库做对比；
+   原始字库，用于和 siddam 1.1 字库做比较；
 
 4、`OldStandardTT-Bold_加字版/`：Old Standard TT Bold 加字版（v3.001）
    独立发布子文件夹，含字体文件、README 与该字体专用的整体 SIL OFL 1.1
@@ -28,20 +27,6 @@ Siddham font and input method / 悉昙梵字字库与输入法。
    取自 Old Standard TT Bold 的 126 个字符；子文件夹
    `OldStandardTT-Bold_加字版/` 内独立字体的完整授权以该文件夹下的
    `OFL.txt` 为准）。
-
-## 安装与使用
-
-1. **安装字体**：双击 `siddam 1.1.ttf` → 点击「安装」；或复制该文件到
-   `C:\Windows\Fonts` 目录。安装后即可在文字软件字体列表中选择
-   `siddam 1.1`。
-2. **安装输入法**：运行 `siddam1.1_输入法_Setup_x64.exe`，按向导完成安装；
-   安装后可在系统语言栏切换到悉昙输入法。
-3. **使用注意**：`siddam 1.1.ttf` 已含 Old Standard TT Bold 的 126 个
-   罗马字符，悉昙与罗马转写混排时直接使用本字库即可，**无需**频繁更换
-   字体；使用时**不要**点选办公软件的「加粗（Bold）」按钮——本字库
-   整体已是粗体。
-4. **码表查询**：`siddham字库与输入法码表.xlsx` 提供字库字符与输入法
-   编码对照，便于查阅与自定义词库。
 
 ## 版权与许可说明
 
